@@ -1,0 +1,6 @@
+
+name: DiscordMsgSync
+version: 1.0-RELEASE
+main: org.example.Main
+api-version: '1.21.9'
+author: ByteMe6
