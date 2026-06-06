@@ -1,6 +1,16 @@
-
-name: DiscordMsgSync
-version: 1.0-RELEASE
+name: Hanafubuki
+version: 1.0
 main: org.example.Main
-api-version: '1.21.9'
-author: ByteMe6
+api-version: "1.21"
+
+commands:
+  spawn:
+    description: Spawn teleport
+  home:
+    description: Home teleport
+  tpa:
+    description: Send teleport request
+  tpaaccept:
+    description: Accept teleport request
+  tpadeny:
+    description: Deny teleport request
